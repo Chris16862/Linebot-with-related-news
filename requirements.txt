@@ -1,0 +1,6 @@
+requests==2.18.3
+beautifulsoup4==4.4.0
+jieba==0.38.0
+psycopg2==2.7.3
+APScheduler==3.0.0
+selenium==3.5.0
